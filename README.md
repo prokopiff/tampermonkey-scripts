@@ -1,5 +1,5 @@
 # teams-notify
-Tampermonkey script that shows notifications for Microsoft Teams
+[Tampermonkey](https://tampermonkey.net/) script that shows notifications for Microsoft Teams
 
 ## Installation
 Just choose to create a new script in tampermonkey
