@@ -12,3 +12,6 @@ Optionally specify the link to the raw file as UpdateURL in script settings to r
 
 ### Aliexpress - Go to global site
  Redirects to global site in English if possible
+
+### inoreader-counter
+ show real count of unread articles in Inoreader instead of 999+
