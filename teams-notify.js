@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Teams Notify
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Try to fix this garbage
 // @author       prokopiff@gmail.com
 // @match        https://teams.microsoft.com/_
