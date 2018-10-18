@@ -11,6 +11,21 @@
 (function() {
   'use strict';
 
+  console.log("Modifying styles");
+  (function() {
+    // Create the <style> tag
+    var style = document.createElement("style");
+
+    // WebKit hack :(
+    style.appendChild(document.createTextNode(""));
+
+    // Add the <style> element to the page
+    document.head.appendChild(style);
+
+    style.sheet.insertRule("thread .ts-message .message-body-container { min-width: 250px; }");
+
+  })();
+
   const CHECK_INTERVAL = 5000;
   const REPEAT_TIMEOUT = 120000;
 
