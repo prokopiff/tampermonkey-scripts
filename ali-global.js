@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Use global site in English if possible
 // @author       prokopiff@gmail.com
-// @match        https://*.aliexpress.com/
+// @match        https://*.aliexpress.com/*
 // @grant        none
 // ==/UserScript==
 
